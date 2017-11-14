@@ -1,0 +1,65 @@
+const vehicle = {
+	name : 'Ghost',
+	make : 'Saab',
+	model : '900 Turbo Cabriolet',
+	engine : '2.0 L Turbo',
+	horsepower :'160 hp',
+	color : 'white',
+	year : 1992
+}
+console.log(vehicle);
+
+vehicle.make;
+vehicle.color;
+
+const firstVehicle = {
+  name : 'White Horse',
+  make : 'Toyota',
+  model : 'Camry',
+  engine : '2.0 L',
+  horsepower : '115 hp',
+  color : 'white',
+  year : '1991'
+}
+
+const secondVehicle = {
+  name : 'Gilbert',
+  make : 'Toyota',
+  model : 'Corolla',
+  engine : '1.4 L',
+  horsepower : '120 hp',
+  color : 'black',
+  year : '1999'
+}
+
+const thirdVehicle = {
+  name : 'Calypso',
+  make : 'Mazda',
+  model : '3',
+  engine : '2.0 L',
+  horsepower : '155 hp',
+  color : 'Deep Crystal Mica',
+  year : '2016'
+}
+
+const fourthVehicle = {
+  name : 'Froggy',
+  make : 'Honda',
+  model : 'Accord',
+  engine : '2.2 L',
+  horsepower : '130 hp',
+  color : 'Green',
+  year : '1994'
+}
+
+const fifthVehicle = {
+  name : 'Mobi',
+  make : 'Nissan',
+  model : 'Altima',
+  engine : '2.5 L',
+  horsepower : '175 hp',
+  color : 'Pewter',
+  year : '2002'
+}
+
+console.log(fifthVehicle);

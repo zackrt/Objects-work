@@ -1,0 +1,9 @@
+const vehicle = {
+	name : 'Ghost',
+	make : 'Saab',
+	model : '900 Turbo Cabriolet',
+	engine : '2.0 L Turbo',
+	horsepower :'160 hp',
+	color : 'white',
+}
+console.log(vehicle);
